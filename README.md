@@ -1,3 +1,3 @@
 Git workshop
 
-some text
+some description!
